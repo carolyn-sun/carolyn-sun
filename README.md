@@ -13,6 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p>
+  <strong>Carolyn Sun</strong><br/>
+  DevOps Engineer<br/>
+  <a href="https://carolyn.sh">carolyn.sh</a><br/>
+  <a href="https://github.com/carolyn-sun/message-board/discussions">Leave a message</a>
+</p>
+
+---
+
 <a href="https://github.com/carolyn-sun#gh-light-mode-only">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolyn-sun&layout=compact&card_width=450&title_color=0969da&text_color=57606a&bg_color=ffffff&border_color=d0d7de#gh-light-mode-only" alt="top-langs" />
 </a>
@@ -20,5 +29,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/carolyn-sun#gh-dark-mode-only">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolyn-sun&layout=compact&card_width=450&title_color=539bf5&text_color=768390&bg_color=00000000&border_color=444c56#gh-dark-mode-only" alt="top-langs" />
 </a>
-
-[![My Skills](https://skillicons.dev/icons?i=anaconda,apple,arduino,aws,azul,azure,bash,c,cs,cpp,clion,cloudflare,css,dotnet,eclipse,emacs,figma,gcp,git,github,gitlab,gmail,html,idea,java,js,latex,linkedin,linux,md,matlab,mysql,neovim,nextjs,nginx,nodejs,npm,obsidian,octave,opencv,postman,powershell,pycharm,py,pytorch,rabbitmq,raspberrypi,react,redhat,redis,regex,rider,rocket,stackoverflow,sublime,scala,selenium,svg,swift,tailwind,tensorflow,twitter,ts,ubuntu,v,vercel,vim,visualstudio,vscode,webpack,webstorm,windows,wordpress,workers&theme=dark)](#)
