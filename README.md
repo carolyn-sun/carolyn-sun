@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <strong>Carolyn Sun</strong><br/>
   DevOps Engineer<br/>
   <a href="https://carolyn.sh">https://carolyn.sh</a><br/>
-  <a href="https://github.com/carolyn-sun/message-board/discussions">Leave a message</a>
+  <a href="https://github.com/carolyn-sun/carolyn-sun/discussions">Leave a message</a>
 </p>
 
 ---
