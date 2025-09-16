@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p>
   <strong>Carolyn Sun</strong><br/>
   DevOps Engineer<br/>
-  <a href="https://carolyn.sh">carolyn.sh</a><br/>
+  <a href="https://carolyn.sh">https://carolyn.sh</a><br/>
   <a href="https://github.com/carolyn-sun/message-board/discussions">Leave a message</a>
 </p>
 
