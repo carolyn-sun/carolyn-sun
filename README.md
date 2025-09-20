@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <strong>Carolyn Sun</strong><br/>
-  DevOps Engineer<br/>
-  <a href="https://carolyn.sh">https://carolyn.sh</a><br/>
-  <a href="https://github.com/carolyn-sun/carolyn-sun/discussions">Leave a message</a>  
+  <strong>Carolyn Sun</strong><br />
+  DevOps Engineer<br />
+  <a href="https://carolyn.sh">https://carolyn.sh</a><br />
+  <a href="https://github.com/carolyn-sun/carolyn-sun/discussions">Leave a message</a><br />
   <a href="/5A20EEB9.asc">Public PGP Key</a> `8F6B D4F2 EE99 ABC1 7846 2265 BEEE B56F CE35 A975`
 </p>
 
