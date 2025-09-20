@@ -13,13 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
-  <strong>Carolyn Sun</strong><br />
-  DevOps Engineer<br />
-  <a href="https://carolyn.sh">https://carolyn.sh</a><br />
-  <a href="https://github.com/carolyn-sun/carolyn-sun/discussions">Leave a message</a><br />
-  <a href="/5A20EEB9.asc">Public PGP Key</a> `8F6B D4F2 EE99 ABC1 7846 2265 BEEE B56F CE35 A975`
-</p>
+**Carolyn Sun** <br/>
+DevOps Engineer <br />
+[https://carolyn.sh](https://carolyn.sh) <br />
+[Leave a message](https://github.com/carolyn-sun/carolyn-sun/discussions) <br />
+[Public PGP key](/5A20EEB9.asc) `8F6B D4F2 EE99 ABC1 7846 2265 BEEE B56F CE35 A975` <br />
 
 ---
 
