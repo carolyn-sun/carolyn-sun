@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 **Carolyn Sun** <br/>
 DevOps Engineer <br />
-[https://carolyn.sh](https://carolyn.sh) | [Leave a message](https://github.com/carolyn-sun/carolyn-sun/discussions/1) | [GPG key](https://carolyn.sh/gpg)
+[https://carolyn.sh](https://carolyn.sh) | [Leave a Message](https://github.com/carolyn-sun/carolyn-sun/discussions/1) | [GPG Key](https://carolyn.sh/gpg)
 
 ---
 
