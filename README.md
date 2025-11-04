@@ -24,7 +24,6 @@ DevOps Engineer <br />
 <a href="https://github.com/carolyn-sun/simple-lang-stats#gh-dark-mode-only">
     <img src="https://sls.carolyn.sh/carolyn-sun?night=true" />
 </a>
-
 ---
 
 **Current focus**
