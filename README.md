@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Carolyn Sun</h3> <br/>
+<h4>Carolyn Sun</h4> <br/>
 DevOps Engineer <br />
 [https://carolyn.sh](https://carolyn.sh) | [Message Board](https://github.com/carolyn-sun/carolyn-sun/discussions/1) | [GPG Key](https://carolyn.sh/gpg)
 
