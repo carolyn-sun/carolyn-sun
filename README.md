@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 DevOps Engineer <br />
 [https://carolyn.sh](https://carolyn.sh) | [Message Board](https://github.com/carolyn-sun/carolyn-sun/discussions/1) | [GPG Key](https://carolyn.sh/gpg)
 
+**Language statistics** <br/>
+
 <a href="https://github.com/carolyn-sun/simple-lang-stats#gh-light-mode-only">
     <img src="https://sls.carolyn.sh/carolyn-sun" />
 </a>
 <a href="https://github.com/carolyn-sun/simple-lang-stats#gh-dark-mode-only">
     <img src="https://sls.carolyn.sh/carolyn-sun?night=true" />
 </a>
-
----
 
 **Current focus**
 
