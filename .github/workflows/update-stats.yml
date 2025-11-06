@@ -9,9 +9,14 @@ on:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Allow writing to repository contents
+      
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
         
       - name: Update Language Stats
         uses: carolyn-sun/simple-lang-stats@latest
