@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 DevOps Engineer <br />
 [https://carolyn.sh](https://carolyn.sh) | [Message Board](https://github.com/carolyn-sun/carolyn-sun/discussions/1) | [GPG Key](https://carolyn.sh/gpg)
 
+---
+
 **Language statistics** <br/>
 
 <!-- simple-lang-stats -->
@@ -34,6 +36,8 @@ DevOps Engineer <br />
 ```
 *Based on 12 repositories for Carolyn Sun (carolyn-sun)*<br/>Powered by [carolyn-sun/simple-lang-stats](https://github.com/carolyn-sun/simple-lang-stats)
 <!-- /simple-lang-stats -->
+
+---
 
 **Current focus**
 
