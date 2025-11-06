@@ -23,18 +23,18 @@ DevOps Engineer <br />
 
 <!-- simple-lang-stats -->
 ```
-58.55% JavaScript
+58.54% JavaScript
 33.21% Fluent
-4.36% CSS
-1.33% TypeScript
-1.13% MDX
-0.75% HTML
-0.45% Swift
-0.12% Shell
-0.05% V
-0.04% Ruby
+ 4.36% CSS
+ 1.35% TypeScript
+ 1.13% MDX
+ 0.75% HTML
+ 0.45% Swift
+ 0.12% Shell
+ 0.05% V
+ 0.04% Ruby
 ```
-*Based on 12 repositories for Carolyn Sun (carolyn-sun)*<br/>Powered by [carolyn-sun/simple-lang-stats](https://github.com/carolyn-sun/simple-lang-stats)
+*Based on 12 repositories for Carolyn Sun (carolyn-sun)<br/>Powered by [carolyn-sun/simple-lang-stats](https://github.com/carolyn-sun/simple-lang-stats)*
 <!-- /simple-lang-stats -->
 
 ---
