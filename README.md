@@ -19,12 +19,8 @@ DevOps Engineer <br />
 
 **Language statistics** <br/>
 
-<a href="https://github.com/carolyn-sun/simple-lang-stats#gh-light-mode-only">
-    <img src="https://sls.carolyn.sh/carolyn-sun" />
-</a>
-<a href="https://github.com/carolyn-sun/simple-lang-stats#gh-dark-mode-only">
-    <img src="https://sls.carolyn.sh/carolyn-sun?night=true" />
-</a>
+<!-- simple-lang-stats -->
+<!-- /simple-lang-stats -->
 
 **Current focus**
 
