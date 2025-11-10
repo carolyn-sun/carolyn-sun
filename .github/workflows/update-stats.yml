@@ -18,7 +18,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
         
-      - name: Update Language Stats
+      - name: Update language stats
         uses: carolyn-sun/simple-lang-stats@latest
         with:
           PAT: ${{ secrets.PAT }}
