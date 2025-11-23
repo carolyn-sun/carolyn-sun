@@ -23,13 +23,13 @@ DevOps Engineer <br />
 
 <!-- simple-lang-stats -->
 ```
-58.45% JavaScript
-33.16% Fluent
- 4.35% CSS
- 1.41% MDX
-  1.2% TypeScript
+58.44% JavaScript
+33.15% Fluent
+ 4.36% CSS
+ 1.42% MDX
+ 1.19% TypeScript
  0.75% HTML
- 0.44% Swift
+ 0.45% Swift
  0.13% Shell
  0.06% V
  0.04% Ruby
