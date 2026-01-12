@@ -3,7 +3,7 @@ name: Update Language Stats
 on:
   push:
   schedule:
-    - cron: '0 */6 * * *'  # Run every 6 hours
+    - cron: '0 */48 * * *'  # Run every 48 hours
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
