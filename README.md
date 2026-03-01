@@ -31,9 +31,9 @@ DevOps Engineer <br />
  1.09% =     HTML
  0.55% =     TypeScript
  0.43% =     Swift
- 0.36% =     Julia
+ 0.35% =     Julia
  0.18% =     Shell
- 0.09% =     Typst
+  0.1% =     Typst
  0.08% =     XSLT
  0.05% =     Ruby
  0.04% =     PowerShell
