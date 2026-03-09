@@ -23,13 +23,13 @@ DevOps Engineer <br />
 
 <!-- simple-lang-stats -->
 ```
-53.07% ===   JavaScript
-35.54% ==    Fluent
- 5.07% =     CSS
- 1.94% =     MDX
- 1.42% =     Astro
+52.94% ===   JavaScript
+35.45% ==    Fluent
+ 5.06% =     CSS
+ 1.93% =     MDX
+ 1.41% =     Astro
  1.13% =     HTML
- 0.55% =     TypeScript
+  0.8% =     TypeScript
  0.45% =     Swift
  0.37% =     Julia
  0.19% =     Shell
@@ -38,7 +38,7 @@ DevOps Engineer <br />
  0.05% =     Ruby
  0.04% =     PowerShell
 ```
-*Based on 13 non-forked repositories for Carolyn Sun (carolyn-sun)<br/>Powered by [carolyn-sun/simple-lang-stats](https://github.com/carolyn-sun/simple-lang-stats)*
+*Based on 14 non-forked repositories for Carolyn Sun (carolyn-sun)<br/>Powered by [carolyn-sun/simple-lang-stats](https://github.com/carolyn-sun/simple-lang-stats)*
 <!-- /simple-lang-stats -->
 
 ---
