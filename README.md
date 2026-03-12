@@ -23,13 +23,13 @@ DevOps Engineer <br />
 
 <!-- simple-lang-stats -->
 ```
-52.94% ===   JavaScript
+52.93% ===   JavaScript
 35.45% ==    Fluent
  5.06% =     CSS
  1.93% =     MDX
- 1.41% =     Astro
+ 1.43% =     Astro
  1.13% =     HTML
-  0.8% =     TypeScript
+ 0.79% =     TypeScript
  0.45% =     Swift
  0.37% =     Julia
  0.19% =     Shell
