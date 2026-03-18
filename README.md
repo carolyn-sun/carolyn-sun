@@ -29,10 +29,10 @@ DevOps Engineer <br />
  6.89% =     TeX
  4.15% =     CSS
  1.72% =     BibTeX Style
- 1.62% =     MDX
+ 1.63% =     MDX
  1.25% =     Astro
  1.11% =     TypeScript
- 0.93% =     HTML
+ 0.92% =     HTML
  0.37% =     Swift
  0.31% =     Julia
  0.15% =     Shell
