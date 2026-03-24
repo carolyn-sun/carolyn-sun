@@ -33,9 +33,9 @@ DevOps Engineer <br />
  1.42% =     MDX
  1.08% =     Astro
   0.8% =     HTML
- 0.33% =     Swift
+ 0.32% =     Swift
  0.27% =     Julia
- 0.13% =     Shell
+ 0.14% =     Shell
  0.07% =     Typst
  0.06% =     XSLT
  0.04% =     Ruby
