@@ -23,16 +23,16 @@ DevOps Engineer <br />
 
 <!-- simple-lang-stats -->
 ```
- 37.9% ==    JavaScript
-24.91% =     Fluent
-13.73% =     TypeScript
- 7.36% =     Python
- 6.61% =     TeX
- 3.63% =     CSS
+37.84% ==    JavaScript
+24.87% =     Fluent
+13.71% =     TypeScript
+ 7.35% =     Python
+  6.6% =     TeX
+ 3.67% =     CSS
  1.47% =     BibTeX Style
  1.42% =     MDX
- 1.22% =     Astro
-  0.8% =     HTML
+ 1.33% =     Astro
+ 0.79% =     HTML
  0.32% =     Swift
  0.26% =     Julia
  0.14% =     Shell
