@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 DevOps Engineer <br />
 [https://carolyn.sh](https://carolyn.sh) | [Message Board](https://github.com/carolyn-sun/carolyn-sun/discussions/1)
 
+<a href='https://ko-fi.com/K3K51XDNXI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 ---
 
 **Language statistics** <br/>
