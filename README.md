@@ -94,4 +94,4 @@ DevOps Engineer / Platform Engineer, and CTO<br />
 
 **OS and virtualization**
 
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![Fedora](https://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora&logoColor=white) ![VMware ESXi](https://img.shields.io/badge/VMware-ESXi-607078?style=flat-square&logo=vmware)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![Fedora](https://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora&logoColor=white) ![VMware ESXi](https://img.shields.io/badge/VMware-ESXi-607078?style=flat-square&logo=vmware&logoColor=white)
