@@ -20,7 +20,6 @@ DevOps Engineer / Platform Engineer, and CTO<br />
 ## Language statistics
 
 <!-- simple-lang-stats -->
-
 ```
 36.16% ==    JavaScript
 24.18% =     Fluent
@@ -42,9 +41,7 @@ DevOps Engineer / Platform Engineer, and CTO<br />
  0.01% =     Perl
  0.01% =     Batchfile
 ```
-
-_Based on 19 non-forked repositories for Carolyn Sun (carolyn-sun)<br/>Powered by [carolyn-sun/simple-lang-stats](https://github.com/carolyn-sun/simple-lang-stats)_
-
+*Based on 19 non-forked repositories for Carolyn Sun (carolyn-sun)<br/>Powered by [carolyn-sun/simple-lang-stats](https://github.com/carolyn-sun/simple-lang-stats)*
 <!-- /simple-lang-stats -->
 
 ---
