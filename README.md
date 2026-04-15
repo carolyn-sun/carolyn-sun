@@ -22,6 +22,7 @@ DevOps Engineer / Platform Engineer, and CTO<br />
 ## Language statistics
 
 <!-- simple-lang-stats -->
+
 ```
 36.16% ==    JavaScript
 24.18% =     Fluent
@@ -43,7 +44,9 @@ DevOps Engineer / Platform Engineer, and CTO<br />
  0.01% =     Perl
  0.01% =     Batchfile
 ```
-*Based on 19 non-forked repositories for Carolyn Sun (carolyn-sun)<br/>Powered by [carolyn-sun/simple-lang-stats](https://github.com/carolyn-sun/simple-lang-stats)*
+
+_Based on 19 non-forked repositories for Carolyn Sun (carolyn-sun)<br/>Powered by [carolyn-sun/simple-lang-stats](https://github.com/carolyn-sun/simple-lang-stats)_
+
 <!-- /simple-lang-stats -->
 
 ---
@@ -78,11 +81,11 @@ DevOps Engineer / Platform Engineer, and CTO<br />
 
 **Common languages/frameworks**
 
-![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=c-sharp&logoColor=white) ![V](https://img.shields.io/badge/-V-5D87BF?style=flat-square&logo=v&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=c-sharp&logoColor=white) ![V](https://img.shields.io/badge/-V-5D87BF?style=flat-square&logo=v&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
 **Classical/legacy languages/frameworks**
 
-![VB.NET](https://img.shields.io/badge/-VisualBasic.NET-512BD4?style=flat-square&logo=vbdotnet) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Delphi](https://img.shields.io/badge/-Delphi-E62431?style=flat-square&logo=delphi&logoColor=white)
+![VB.NET](https://img.shields.io/badge/-VisualBasic.NET-512BD4?style=flat-square&logo=vbdotnet) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Delphi](https://img.shields.io/badge/-Delphi-E62431?style=flat-square&logo=delphi&logoColor=white)
 
 **Quality assurance**
 
