@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 DevOps Engineer / Platform Engineer, and CTO<br />
 [https://carolyn.sh](https://carolyn.sh) | [Message Board](https://github.com/carolyn-sun/carolyn-sun/discussions/1)
 
-<a href='https://ko-fi.com/K3K51XDNXI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
 ## Language statistics
 
 <!-- simple-lang-stats -->
+
 ```
 36.16% ==    JavaScript
 24.18% =     Fluent
@@ -43,7 +42,9 @@ DevOps Engineer / Platform Engineer, and CTO<br />
  0.01% =     Perl
  0.01% =     Batchfile
 ```
-*Based on 19 non-forked repositories for Carolyn Sun (carolyn-sun)<br/>Powered by [carolyn-sun/simple-lang-stats](https://github.com/carolyn-sun/simple-lang-stats)*
+
+_Based on 19 non-forked repositories for Carolyn Sun (carolyn-sun)<br/>Powered by [carolyn-sun/simple-lang-stats](https://github.com/carolyn-sun/simple-lang-stats)_
+
 <!-- /simple-lang-stats -->
 
 ---
