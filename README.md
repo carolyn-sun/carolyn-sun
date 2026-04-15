@@ -64,7 +64,7 @@ DevOps Engineer / Platform Engineer, and CTO<br />
 
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white) ![Docusaurus](https://img.shields.io/badge/-Docusaurus-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white)
 
-### Mathematics, Hi-perf calculation, and ML
+### Mathematics, Hi-perf computing, and ML
 
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Ray](https://img.shields.io/badge/-Ray-028CF0?style=flat-square&logo=ray&logoColor=white) ![Raylib](https://img.shields.io/badge/-Raylib-000000?style=flat-square&logo=raylib&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![OpenAI Gym](https://img.shields.io/badge/-OpenAI_Gym-0081A5?style=flat-square&logo=openai&logoColor=white) ![GNU Octave](https://img.shields.io/badge/-GNU_Octave-0790C0?style=flat-square&logo=octave&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-FBFFAB?style=flat-square&logo=mathworks&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-A270BA?style=flat-square&logo=julia&logoColor=white)
 
