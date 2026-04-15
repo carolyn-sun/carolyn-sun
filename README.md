@@ -22,6 +22,7 @@ DevOps Engineer / Platform Engineer, and CTO<br />
 ## Language statistics
 
 <!-- simple-lang-stats -->
+
 ```
 36.16% ==    JavaScript
 24.18% =     Fluent
@@ -43,7 +44,9 @@ DevOps Engineer / Platform Engineer, and CTO<br />
  0.01% =     Perl
  0.01% =     Batchfile
 ```
-*Based on 19 non-forked repositories for Carolyn Sun (carolyn-sun)<br/>Powered by [carolyn-sun/simple-lang-stats](https://github.com/carolyn-sun/simple-lang-stats)*
+
+_Based on 19 non-forked repositories for Carolyn Sun (carolyn-sun)<br/>Powered by [carolyn-sun/simple-lang-stats](https://github.com/carolyn-sun/simple-lang-stats)_
+
 <!-- /simple-lang-stats -->
 
 ---
@@ -94,4 +97,4 @@ DevOps Engineer / Platform Engineer, and CTO<br />
 
 **OS and virtualization**
 
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![Fedora](https://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![Fedora](https://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora&logoColor=white) ![VMware ESXi](https://img.shields.io/badge/VMware-ESXi-607078?style=flat-square&logo=vmware)
