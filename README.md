@@ -20,6 +20,7 @@ DevOps Engineer / Platform Engineer, and CTO<br />
 ## Language statistics
 
 <!-- simple-lang-stats -->
+
 ```
 36.12% ==    JavaScript
 24.15% =     Fluent
@@ -41,7 +42,9 @@ DevOps Engineer / Platform Engineer, and CTO<br />
  0.01% =     Perl
  0.01% =     Batchfile
 ```
-*Based on 19 non-forked repositories for Carolyn Sun (carolyn-sun)<br/>Powered by [carolyn-sun/simple-lang-stats](https://github.com/carolyn-sun/simple-lang-stats)*
+
+_Based on 19 non-forked repositories for Carolyn Sun (carolyn-sun)<br/>Powered by [carolyn-sun/simple-lang-stats](https://github.com/carolyn-sun/simple-lang-stats)_
+
 <!-- /simple-lang-stats -->
 
 ---
@@ -74,9 +77,9 @@ DevOps Engineer / Platform Engineer, and CTO<br />
 
 ![AccuRev SCM](https://img.shields.io/badge/-AccuRev-0078EF?style=flat-square&logo=opentext&logoColor=white)
 
-**Mathematics, Hi-perf computing, and ML**
+**Mathematics, hi-perf computing, and ML**
 
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white) ![GNU Octave](https://img.shields.io/badge/-GNU_Octave-0790C0?style=flat-square&logo=octave&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-A270BA?style=flat-square&logo=julia&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-FBFFAB?style=flat-square&logo=mathworks&logoColor=white) ![OpenAI Gym](https://img.shields.io/badge/-OpenAI_Gym-0081A5?style=flat-square&logo=openai&logoColor=white)![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)![Ray](https://img.shields.io/badge/-Ray-028CF0?style=flat-square&logo=ray&logoColor=white)![Raylib](https://img.shields.io/badge/-Raylib-000000?style=flat-square&logo=raylib&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white) ![GNU Octave](https://img.shields.io/badge/-GNU_Octave-0790C0?style=flat-square&logo=octave&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-A270BA?style=flat-square&logo=julia&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-FBFFAB?style=flat-square&logo=mathworks&logoColor=white) ![OpenAI Gym](https://img.shields.io/badge/-OpenAI_Gym-0081A5?style=flat-square&logo=openai&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Ray](https://img.shields.io/badge/-Ray-028CF0?style=flat-square&logo=ray&logoColor=white) ![Raylib](https://img.shields.io/badge/-Raylib-000000?style=flat-square&logo=raylib&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 **OS and virtualization**
 
