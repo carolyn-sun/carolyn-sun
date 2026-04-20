@@ -27,11 +27,11 @@ DevOps Engineer / Platform Engineer, and CTO<br />
   6.9% =     Python
   6.2% =     TeX
  3.58% =     CSS
- 3.17% =     Astro
+ 3.18% =     Astro
  1.43% =     MDX
  1.38% =     BibTeX Style
  0.91% =     HTML
-  0.3% =     Swift
+ 0.29% =     Swift
  0.25% =     Julia
  0.14% =     Shell
  0.08% =     Typst
