@@ -44,8 +44,6 @@ DevOps Engineer / Platform Engineer, and CTO<br />
 *Based on 19 non-forked repositories for Carolyn Sun (carolyn-sun)<br/>Powered by [carolyn-sun/simple-lang-stats](https://github.com/carolyn-sun/simple-lang-stats)*
 <!-- /simple-lang-stats -->
 
----
-
 ## Current focus
 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![TeamCity](https://img.shields.io/badge/-TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
