@@ -21,19 +21,19 @@ DevOps Engineer / Platform Engineer, and CTO<br />
 
 <!-- simple-lang-stats -->
 ```
-36.12% ==    JavaScript
-24.15% =     Fluent
-15.24% =     TypeScript
-  6.9% =     Python
-  6.2% =     TeX
- 3.58% =     CSS
- 3.18% =     Astro
- 1.43% =     MDX
- 1.38% =     BibTeX Style
- 0.91% =     HTML
- 0.29% =     Swift
- 0.25% =     Julia
- 0.14% =     Shell
+35.84% ==    JavaScript
+23.96% =     Fluent
+15.12% =     TypeScript
+ 7.57% =     Python
+ 6.15% =     TeX
+ 3.55% =     CSS
+ 3.15% =     Astro
+ 1.42% =     MDX
+ 1.37% =     BibTeX Style
+  0.9% =     HTML
+  0.3% =     Swift
+ 0.24% =     Julia
+  0.2% =     Shell
  0.08% =     Typst
  0.06% =     XSLT
  0.04% =     Ruby
@@ -41,7 +41,7 @@ DevOps Engineer / Platform Engineer, and CTO<br />
  0.01% =     Perl
  0.01% =     Batchfile
 ```
-*Based on 19 non-forked repositories for Carolyn Sun (carolyn-sun)<br/>Powered by [carolyn-sun/simple-lang-stats](https://github.com/carolyn-sun/simple-lang-stats)*
+*Based on 20 non-forked repositories for Carolyn Sun (carolyn-sun)<br/>Powered by [carolyn-sun/simple-lang-stats](https://github.com/carolyn-sun/simple-lang-stats)*
 <!-- /simple-lang-stats -->
 
 ## Current focus
