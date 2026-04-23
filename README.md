@@ -21,16 +21,16 @@ DevOps Engineer / Platform Engineer, and CTO<br />
 
 <!-- simple-lang-stats -->
 ```
-35.84% ==    JavaScript
-23.96% =     Fluent
-15.12% =     TypeScript
- 7.57% =     Python
- 6.15% =     TeX
- 3.55% =     CSS
- 3.15% =     Astro
+35.75% ==    JavaScript
+ 23.9% =     Fluent
+15.08% =     TypeScript
+  7.8% =     Python
+ 6.13% =     TeX
+ 3.54% =     CSS
+ 3.14% =     Astro
  1.42% =     MDX
- 1.37% =     BibTeX Style
-  0.9% =     HTML
+ 1.36% =     BibTeX Style
+ 0.91% =     HTML
   0.3% =     Swift
  0.24% =     Julia
   0.2% =     Shell
