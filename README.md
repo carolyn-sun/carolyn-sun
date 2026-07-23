@@ -43,5 +43,3 @@ DevOps Engineer / Platform Engineer, and CTO<br />
 ```
 *Based on 20 non-forked repositories for Carolyn Sun (carolyn-sun)<br/>Powered by [carolyn-sun/simple-lang-stats](https://github.com/carolyn-sun/simple-lang-stats)*
 <!-- /simple-lang-stats -->
-
----
