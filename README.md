@@ -27,12 +27,12 @@ DevOps Engineer / Platform Engineer, and CTO<br />
  7.54% =     Python
  5.92% =     TeX
  3.52% =     Astro
- 2.36% =     CSS
+ 2.35% =     CSS
  1.44% =     MDX
  1.32% =     BibTeX Style
  0.88% =     HTML
  0.23% =     Julia
- 0.18% =     Shell
+ 0.19% =     Shell
   0.1% =     HCL
  0.09% =     Typst
  0.05% =     XSLT
