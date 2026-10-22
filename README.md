@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 **Carolyn Sun** <br/>
-DevOps Engineer / Platform Engineer, and CTO<br />
+Platform Engineer, and CTO<br />
 [https://carolyn.sh](https://carolyn.sh) | [Message Board](https://github.com/carolyn-sun/carolyn-sun/discussions/1)
 
 ## Language statistics
